@@ -1,6 +1,6 @@
 ### Hi!
 
-My name is Will, I am currently studying computer science and data science at UBC. I love coding and data!
+My name is Will, and I am a Data Engineer and Computer Science professional currently studying computer science and data science at UBC.
 
 ## Some of My Favourite Technologies
 
