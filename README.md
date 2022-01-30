@@ -20,6 +20,12 @@ My name is Will, and I am a Computer & Data Science professional currently study
 
 ![](https://img.shields.io/badge/Language-R-informational?style=flat&logo=r&logoColor=white&color=276DC3)
 
+![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=Java&logoColor=white&color=007396)
+![](https://img.shields.io/badge/Framework-JUnit-informational?style=flat&logoColor=white&color=007396)
+
+![](https://img.shields.io/badge/Language-C-informational?style=flat&logo=C&logoColor=white&color=A8B9CC)
+![](https://img.shields.io/badge/Language-C++-informational?style=flat&logo=Cplusplus&logoColor=white&color=00599C)
+
 ### ☁️ Cloud Computing
 
 ![](https://img.shields.io/badge/Cloud-GoogleCloud-informational?style=flat&logo=googlecloud&logoColor=white&color=4285F4)
