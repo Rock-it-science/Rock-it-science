@@ -37,8 +37,8 @@ My name is Will, and I am a Computer & Data Science professional currently study
 ### 💾 Data
 
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4479A1)
-![](https://img.shields.io/badge/Database-BigQuery-informational?style=flat&logo=googlecloud&logoColor=white&color=4285F4)
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4169E1)
+![](https://img.shields.io/badge/Warehouse-BigQuery-informational?style=flat&logo=googlecloud&logoColor=white&color=4285F4)
 
 ![](https://img.shields.io/badge/Analytics-Tableau-informational?style=flat&logo=tableau&logoColor=white&color=E97627)
 ![](https://img.shields.io/badge/Analytics-Sisense-informational?style=flat&logoColor=white&color=ffcb05)
