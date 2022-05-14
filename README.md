@@ -1,6 +1,6 @@
 ### Hi!
 
-My name is Will, and I am a Computer & Data Science professional currently studying computer science and data science at UBC.
+My name is Will, and I am a Computer & Data Science graduate from UBC currently working in the Data Infrastructure & Development space.
 
 ## Some of My Favourite Technologies
 
