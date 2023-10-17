@@ -23,9 +23,7 @@ My name is Will, I am a Computer & Data Science graduate from UBC working as a D
 
 ![](https://img.shields.io/badge/Orchestrator-Apache%20Airflow-informational?style=flat&logo=apacheairflow&logoColor=white&color=e30202)
 
-![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4479A1)
-![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4169E1)
-![](https://img.shields.io/badge/Database-Riak-informational?style=flat&logo=riak&logoColor=white&color=b8b8b8)
+![](https://img.shields.io/badge/Relational%20Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4169E1)
+![](https://img.shields.io/badge/Distributed%20Database-Riak-informational?style=flat&logo=riak&logoColor=white&color=b8b8b8)
 
 ![](https://img.shields.io/badge/Visualization-Metabase-informational?style=flat&logo=metabase&logoColor=white&color=7dcdf5)
-![](https://img.shields.io/badge/Visualization-Sisense-informational?style=flat&logoColor=white&color=ffcb05)
